@@ -1,0 +1,7 @@
+.date-time {
+	font-size: 30rpx;
+	font-weight: 600;
+	color: var(--black);
+	line-height: 100rpx;
+	padding: 0 30rpx;
+}

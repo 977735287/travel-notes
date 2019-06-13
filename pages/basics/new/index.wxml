@@ -1,0 +1,56 @@
+<cu-custom bgImage="https://image.weilanwl.com/color2.0/plugin/sylb2244.jpg" isBack="{{true}}">
+  <view slot="backText">返回</view>
+  <view slot="content">索引</view>
+</cu-custom>
+
+<form>
+  <view class="cu-form-group margin-top">
+    <view class="title">标题</view>
+    <input placeholder="2 ~ 20 字符" value='test'></input>
+  </view>
+</form>
+
+
+<view class="cu-card article">
+  <view class="cu-item shadow">
+    <view class="flex  p-xs margin-bottom-sm mb-sm">
+      <view class="flex-sub bg-grey padding-sm margin-xs radius">11:30</view>
+      <view class="flex-twice bg-grey padding-sm margin-xs radius">2019-06-13</view>
+    </view>
+    <view class="content">
+      <view class="desc">
+        <view class="text-content">早上怎样怎样怎样。。。然后怎样怎样怎样。。。接着怎样怎样怎样。。。</view>
+        <view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<view class="cu-card article">
+  <view class="cu-item shadow">
+    <view class="flex  p-xs margin-bottom-sm mb-sm">
+      <view class="flex-sub bg-grey padding-sm margin-xs radius">11:30</view>
+      <view class="flex-twice bg-grey padding-sm margin-xs radius">2019-06-13</view>
+    </view>
+    <view class="content">
+      <view class="desc">
+        <view class="text-content">早上怎样怎样怎样。。。然后怎样怎样怎样。。。接着怎样怎样怎样。。。</view>
+        <view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
+
+<view class="cu-card article">
+  <view class="cu-item shadow">
+    <view class="flex p-xs margin-bottom-sm mb-sm">
+      <view class="flex-sub bg-grey padding-sm margin-xs radius">11:30</view>
+      <view class="flex-twice bg-grey padding-sm margin-xs radius">2019-06-13</view>
+    </view>
+    <view>
+        <view class="text-content">早上怎样怎样怎样。。。然后怎样怎样怎样。。。接着怎样怎样怎样。。。</view>
+    </view>
+  </view>
+</view>
