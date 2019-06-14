@@ -13,9 +13,8 @@
       </view>
       <view wx:else>
         <view bindtap='look' class="nav-title">{{item.title}}</view>
-        <view class="nav-name">{{item.date}}
-          <text bindtap='look' class='cuIcon-attention' style='margin-top: -14px; margin-right: -62px;'></text>
-        </view>
+        <view class="nav-name">{{item.date}}</view>
+        <text bindtap='look' class='cuIcon-attention'></text>
       </view>
     </navigator>
   </view>

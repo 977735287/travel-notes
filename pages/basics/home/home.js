@@ -39,7 +39,7 @@ Component({
   methods: {
     look: function (e) {
       wx.navigateTo({
-        url: ''
+        url: '/pages/basics/new/index'
       })
     },
     add: function (e) {

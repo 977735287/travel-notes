@@ -13,32 +13,12 @@
 
 <view class="cu-card article">
   <view class="cu-item shadow">
-    <view class="flex  p-xs margin-bottom-sm mb-sm">
-      <view class="flex-sub bg-grey padding-sm margin-xs radius">11:30</view>
-      <view class="flex-twice bg-grey padding-sm margin-xs radius">2019-06-13</view>
+    <view class="flex p-xs margin-bottom-sm mb-sm">
+      <view class="flex-sub light padding-sm margin-xs radius">11:30</view>
+      <view class="flex-twice padding-sm margin-xs radius">2019-06-13</view>
     </view>
-    <view class="content">
-      <view class="desc">
+    <view>
         <view class="text-content">早上怎样怎样怎样。。。然后怎样怎样怎样。。。接着怎样怎样怎样。。。</view>
-        <view>
-        </view>
-      </view>
-    </view>
-  </view>
-</view>
-
-<view class="cu-card article">
-  <view class="cu-item shadow">
-    <view class="flex  p-xs margin-bottom-sm mb-sm">
-      <view class="flex-sub bg-grey padding-sm margin-xs radius">11:30</view>
-      <view class="flex-twice bg-grey padding-sm margin-xs radius">2019-06-13</view>
-    </view>
-    <view class="content">
-      <view class="desc">
-        <view class="text-content">早上怎样怎样怎样。。。然后怎样怎样怎样。。。接着怎样怎样怎样。。。</view>
-        <view>
-        </view>
-      </view>
     </view>
   </view>
 </view>
@@ -46,8 +26,20 @@
 <view class="cu-card article">
   <view class="cu-item shadow">
     <view class="flex p-xs margin-bottom-sm mb-sm">
-      <view class="flex-sub bg-grey padding-sm margin-xs radius">11:30</view>
-      <view class="flex-twice bg-grey padding-sm margin-xs radius">2019-06-13</view>
+      <view class="flex-sub light padding-sm margin-xs radius">11:30</view>
+      <view class="flex-twice padding-sm margin-xs radius">2019-06-13</view>
+    </view>
+    <view>
+        <view class="text-content">早上怎样怎样怎样。。。然后怎样怎样怎样。。。接着怎样怎样怎样。。。</view>
+    </view>
+  </view>
+</view>
+
+<view class="cu-card article">
+  <view class="cu-item shadow">
+    <view class="flex p-xs margin-bottom-sm mb-sm">
+      <view class="flex-sub light padding-sm margin-xs radius">11:30</view>
+      <view class="flex-twice padding-sm margin-xs radius">2019-06-13</view>
     </view>
     <view>
         <view class="text-content">早上怎样怎样怎样。。。然后怎样怎样怎样。。。接着怎样怎样怎样。。。</view>

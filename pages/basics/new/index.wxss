@@ -5,3 +5,12 @@
 	line-height: 100rpx;
 	padding: 0 30rpx;
 }
+
+.text-content {
+  padding: 0 12px;
+  margin-top: -16px;
+}
+
+.cu-card .article {
+  margin-top: -36px;
+}
